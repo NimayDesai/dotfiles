@@ -42,7 +42,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
-command=/bin/zsh
 theme = nord
-font-size = 14
+command = /bin/zsh
 font-family = Cascadia Code NF
+font-size=14
